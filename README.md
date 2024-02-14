@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nameisvatsal
 - 👀 I’m interested in everything related to computers.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Cloud Computing, Automata.
+- 🕶️ Can code well in C,C++,Python,Java.
 - 📫 How to reach me -@WEEBIE_LoastaMi on twitter.
 
 
